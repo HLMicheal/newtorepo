@@ -1,4 +1,2 @@
 # newtorepo
-first repo
-Hi,
-I am new to git, now in elec4700.
+MATLAB files created for elec4700 in student time.
